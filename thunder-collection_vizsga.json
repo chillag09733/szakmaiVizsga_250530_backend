@@ -1,0 +1,52 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "vizsga",
+    "collectionId": "c09bd952-9c3f-4427-abb1-cca60cdecfec",
+    "dateExported": "2025-05-30T10:02:24.528Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "22938278-42a6-48bd-b4b5-7470cb953b94",
+            "colId": "c09bd952-9c3f-4427-abb1-cca60cdecfec",
+            "containerId": "",
+            "name": "getSzavak",
+            "url": "szos",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2025-05-30T06:58:52.248Z",
+            "modified": "2025-05-30T06:59:08.107Z",
+            "headers": []
+        },
+        {
+            "_id": "e26bffa8-3f19-4f9e-8a3b-0cff5b7e7042",
+            "colId": "c09bd952-9c3f-4427-abb1-cca60cdecfec",
+            "containerId": "",
+            "name": "getTemak",
+            "url": "temas",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2025-05-30T06:59:53.312Z",
+            "modified": "2025-05-30T06:59:58.424Z",
+            "headers": []
+        },
+        {
+            "_id": "136787e4-6103-4402-b38a-53f1a8ec6d15",
+            "colId": "c09bd952-9c3f-4427-abb1-cca60cdecfec",
+            "containerId": "",
+            "name": "getSzoByTema",
+            "url": "",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2025-05-30T07:00:11.888Z",
+            "modified": "2025-05-30T07:00:11.888Z",
+            "headers": []
+        }
+    ],
+    "settings": {
+        "options": {
+            "baseUrl": "http://127.0.0.1:8000/api/"
+        }
+    },
+    "ref": "Cm6L4ASaDfeFpi2jVf0uyMPxdWgxzBUAGaWAeTXOAp5Ate9bYZTiIyWQ4dyAJcAjkJDWOIK7MfJLAIhkwcsUoA"
+}
